@@ -1,0 +1,1 @@
+seminar_vi.ipynb: https://colab.research.google.com/gist/IzmaylovI/17288196bbbd47813e5570f18194ba18/seminar_vi.ipynb
