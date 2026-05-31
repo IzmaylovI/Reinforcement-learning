@@ -1,1 +1,2 @@
 crossentropy_method: https://colab.research.google.com/gist/IzmaylovI/a416523d5472f7fff25909d3565dd21e/crossentropy_method.ipynb
+deep_crossentropy_method: https://colab.research.google.com/gist/IzmaylovI/488d6d69b538ad8970b86c6149af91ea/deep_crossentropy_method.ipynb#scrollTo=euK7WRQiG9zM
