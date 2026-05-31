@@ -1,0 +1,1 @@
+homework.ipynb: https://colab.research.google.com/gist/IzmaylovI/816d9f74c5284bed35b2c740ab11245b/homework.ipynb
