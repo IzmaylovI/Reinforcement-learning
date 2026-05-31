@@ -1,0 +1,1 @@
+homework_pytorch_main.ipynb: https://colab.research.google.com/gist/IzmaylovI/773d4427f3332d8fc722486beaf78a70/homework_pytorch_main.ipynb
