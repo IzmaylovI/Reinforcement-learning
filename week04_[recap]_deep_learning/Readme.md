@@ -1,0 +1,1 @@
+seminar_pytorch.ipynb: https://colab.research.google.com/gist/IzmaylovI/bc09de383640a9c8a0f2697763be72e4/seminar_pytorch.ipynb
